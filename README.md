@@ -2,7 +2,7 @@
 
 On-chain monitoring scripts for rsETH (Kelp DAO) collateralization on **Ethereum mainnet**.
 
-> **Scope**: Ethereum mainnet only. Extending to other chains where rsETH is deployed is on the backlog.
+> **Scope**: Ethereum mainnet only. Extending to multichain rsETH supply is tracked in [issue #2](https://github.com/kpk-labs/rseth-collateral-monitor/issues/2).
 
 ---
 
